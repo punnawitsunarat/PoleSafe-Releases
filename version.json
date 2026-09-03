@@ -1,17 +1,16 @@
 {
   "schemaVersion": 1,
   "appId": "th.ac.kmitl.polesafe",
-  "latestVersion": "1.0.3",
+  "latestVersion": "1.0.4",
   "minimumSupportedVersion": "1.0.1",
-  "publishedAt": "2026-08-25T21:38:01.434Z",
-  "downloadUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/download/v1.0.3/PoleSafe-1.0.3-Windows-x64-Setup.exe",
-  "releasePageUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/tag/v1.0.3",
-  "sha256": "8c387d9b2a05a16fa46724e571a0f1b7a22544ab4853796d55a7dad02e26b33e",
+  "publishedAt": "2026-09-03T05:53:40.933Z",
+  "downloadUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/download/v1.0.4/PoleSafe-1.0.4-Windows-x64-Setup.exe",
+  "releasePageUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/tag/v1.0.4",
+  "sha256": "3c6736f5eec1bbb53bd47eec92d6b456788794c63860bbdc314dfa1b1e28b0fb",
   "notes": [
-    "Added an interactive Realtime Scenario workspace with live pole movement and wire detachment.",
-    "Added original pole and wire ghost geometry for direct scenario comparison.",
-    "Improved Plan editing, automatic wire matching, selection, and inline measurements.",
-    "Refined 2D/3D navigation, infinite grid rendering, ribbon layout, and property panels.",
-    "Improved sag workflows, analysis utilization displays, and validation summaries."
+    "Added realtime pole, crossarm, node, and wire interaction tools.",
+    "Added original geometry ghost comparison and scenario result improvements.",
+    "Added persistent Dark mode with refined styling throughout the application.",
+    "Improved Plan 2D/3D editing, Sag assignment, analysis displays, and validation UI."
   ]
 }
