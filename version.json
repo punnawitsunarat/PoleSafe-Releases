@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "appId": "th.ac.kmitl.polesafe",
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.5",
   "minimumSupportedVersion": "1.0.1",
-  "publishedAt": "2026-09-03T05:53:40.933Z",
-  "downloadUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/download/v1.0.4/PoleSafe-1.0.4-Windows-x64-Setup.exe",
-  "releasePageUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/tag/v1.0.4",
-  "sha256": "3c6736f5eec1bbb53bd47eec92d6b456788794c63860bbdc314dfa1b1e28b0fb",
+  "publishedAt": "2026-10-08T13:59:17Z",
+  "downloadUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/download/v1.0.5/PoleSafe-1.0.5-Windows-x64-Setup.exe",
+  "releasePageUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/tag/v1.0.5",
+  "sha256": "46d91d7f3a5d17a4e4b983deff632b2a585b3e5176dd98aa58e493e60abedd35",
   "notes": [
-    "Added realtime pole, crossarm, node, and wire interaction tools.",
-    "Added original geometry ghost comparison and scenario result improvements.",
-    "Added persistent Dark mode with refined styling throughout the application.",
-    "Improved Plan 2D/3D editing, Sag assignment, analysis displays, and validation UI."
+    "Physical Cable workflow, catalog and validation improvements; engineering results remain PRELIMINARY.",
+    "Realtime pole/wire Detail, insulator assembly editing and visual models.",
+    "Worker-based analysis, workspace autosave/session recovery and responsive editing controls.",
+    "World-space 3D reference grid and rendering/workflow refinements."
   ]
 }
