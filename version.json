@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
   "appId": "th.ac.kmitl.polesafe",
-  "latestVersion": "1.0.5",
+  "latestVersion": "1.0.6",
   "minimumSupportedVersion": "1.0.1",
-  "publishedAt": "2026-10-08T13:59:17Z",
-  "downloadUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/download/v1.0.5/PoleSafe-1.0.5-Windows-x64-Setup.exe",
-  "releasePageUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/tag/v1.0.5",
-  "sha256": "46d91d7f3a5d17a4e4b983deff632b2a585b3e5176dd98aa58e493e60abedd35",
+  "publishedAt": "2026-10-14T11:59:17Z",
+  "downloadUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/download/v1.0.6/PoleSafe-1.0.6-Windows-x64-Setup.exe",
+  "releasePageUrl": "https://github.com/punnawitsunarat/PoleSafe-Releases/releases/tag/v1.0.6",
+  "sha256": "703b321451861b4931868405edbf00c43a1440cceabbef9a2c973334501952f8",
   "notes": [
-    "Physical Cable workflow, catalog and validation improvements; engineering results remain PRELIMINARY.",
-    "Realtime pole/wire Detail, insulator assembly editing and visual models.",
-    "Worker-based analysis, workspace autosave/session recovery and responsive editing controls.",
-    "World-space 3D reference grid and rendering/workflow refinements."
+    "Plan 3D Manual attachment nodes and exact click/drag connection previews.",
+    "Compact Plan 2D attachment selector and Auto-Match source guard refinements.",
+    "Engineering calculations, locked reference lengths and PRELIMINARY limits are unchanged."
   ]
 }
